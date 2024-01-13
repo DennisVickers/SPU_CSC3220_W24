@@ -1,0 +1,3 @@
+C:/Users/denni/OneDrive - Seattle Pacific University/Courses/2024 Winter/CSC 3220/Code/Facade/cmake-build-debug/CMakeFiles/Facade.dir
+C:/Users/denni/OneDrive - Seattle Pacific University/Courses/2024 Winter/CSC 3220/Code/Facade/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/denni/OneDrive - Seattle Pacific University/Courses/2024 Winter/CSC 3220/Code/Facade/cmake-build-debug/CMakeFiles/rebuild_cache.dir
